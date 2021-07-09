@@ -6,7 +6,7 @@
     </xpath>
     <xpath expr="//t/div/table[1]/tbody/t/tr/t/td[1]" position="before">
         <td>
-        	<img t-attf-src="data:image/*;base64,{{line.product_id.image_1920}}" style="width:50%;height:50%"/>
+        	<img t-attf-src="data:image/*;base64,{{line.product_id.image_1920}}" style="Width:75px;Height:75px"/>
         </td>
     </xpath>
 </template>
