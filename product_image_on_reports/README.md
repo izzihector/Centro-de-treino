@@ -1,3 +1,4 @@
+Original:
 Product Image on Sales Invoice Purchase Report
 ----------------------------------------------
 
@@ -11,3 +12,7 @@ Product Image on Sales Invoice Purchase Report Functionality
 ---------------------------------------------
 
 Here product image is displayed when Sales, Invoice, Purchase report is printed
+
+SIC:
+
+Foi alterado as dimensões das imagens dos produtos
